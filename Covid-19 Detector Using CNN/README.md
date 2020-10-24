@@ -1,4 +1,4 @@
-## Links Use for the Project
+## Links for Datasets used in the Project
 
 ### Link for Covid +ve samples :
 https://github.com/ieee8023/covid-chestxray-dataset
